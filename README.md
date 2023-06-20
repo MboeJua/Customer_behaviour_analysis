@@ -21,4 +21,4 @@ create better and more impactful campaigns.
 # Conclusion
 * We realized Regression Tree had the best accuracy and was later on used in our report to management.
 
-# * We acknowledge other methods which could lead to better accuracy, but we ommited them given the complexity it requires and not easy to interpret for non data oriented individuals
+# We acknowledge other methods which could lead to better accuracy, but we ommited them given the complexity it requires and not easy to interpret for non data oriented individuals
