@@ -1,4 +1,4 @@
-## Customer_behaviour_analysis
+### Customer_behaviour_analysis
 
 # This study is based on a marketing campaigns. As we were out to understand the customer behavior to aid us 
 # create better and more impactful campaigns.
