@@ -11,6 +11,7 @@ create better and more impactful campaigns.
 ## Exploratory Analysis
 * This exploratory analysis, to help us understand our data and if there's a need for standardization. Also, this help us identify relevant variables for our model building.
 * This was done using correlation plots, box plots, histograms and barplots.
+### link to dashboard "https://public.tableau.com/app/profile/paulinus.jua/viz/CustomerBehaviorAnalysis_16873670495430/Dashboard1"
 
 ## Modeling
 * Our data was split into training and test data on ratio 80:20 respectively
